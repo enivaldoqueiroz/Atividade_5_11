@@ -6,8 +6,8 @@
     uma lista de recados; Cada recado possui um código, um texto e o apelido 
     do usuário que o escreveu; Cada usuário pode: 
 
-    i) 		Consultar a lista de recados; 
+    i)      Consultar a lista de recados; 
   
-    ii) 	Cadastrar um novo recado; 
+    ii)     Cadastrar um novo recado; 
 
-    iii)	Remover algum dos seus recados." *
+    iii)    Remover algum dos seus recados." *
