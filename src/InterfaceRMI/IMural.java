@@ -11,4 +11,3 @@ public interface IMural extends Remote{
 	List<Recado> consultarRecado() throws RemoteException;
 	
 }
-//yes teste dark enivaldo voutar  
